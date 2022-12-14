@@ -1,0 +1,30 @@
+body {
+    background-color: olivedrab;
+    color: bisque;
+}
+
+.heading {
+    background-color: goldenrod;
+    font-size: x-large;
+    width: 80%;
+    font-weight: bold;
+    color: bisque;
+}
+.objects {
+    color: goldenrod;
+    font-size: large;
+}
+
+#camera, #result {
+    border: 2px solid goldenrod;
+    width: 350px;
+    height: 300px;
+    
+}
+
+#object-result, #accuracy-result{
+    color: goldenrod;
+    font-weight: bold;
+    font-size: 120%;
+
+}
